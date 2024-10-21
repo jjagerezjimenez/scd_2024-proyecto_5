@@ -1,4 +1,4 @@
-# Proyecto 4 - Modulaciones digitales
+# Proyecto 5 - Modulaciones digitales
 
 Sistemas de Comunicaciones Digitales I - 2024
 
